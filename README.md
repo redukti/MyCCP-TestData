@@ -8,7 +8,7 @@ to the relevant websites for details on terms of use.
    quotes obtained from a panel of banks. The swap rates cover a maturity range from 1 Week to 2 Years, and data 
    is available from 2005 to June 2014.
 
-2. EONIA overnight rates are available from [European Central Bank - Statistical Data Warehouse](rates come from:http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=198.EON.D.EONIA_TO.RATE). Data is available from 1999.
+2. EONIA overnight rates are available from [European Central Bank - Statistical Data Warehouse](http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=198.EON.D.EONIA_TO.RATE). Data is available from 1999.
 
 3. EURIBOR Rates for maturities between maturies from 1 Week to 1 Year are available from [European Money Markets Institute](https://www.emmi-benchmarks.eu/euribor-org/euribor-rates.html).
 
