@@ -3,7 +3,7 @@
 ## Disclaimer
 
 All data in this repository is for information purposes only. Note that the data in this repository is derived from publicly available data as listed below. Please refer to the relevant websites for details on terms of use. Also note that the data
-has been amended and/or derived in some cases. None of the data in this repository should be relied upon for any reason whatsoever. Any use of the data in this reposiory is strictly at the user’s own risk. No one can be held liable in any way for the inaccuracy of this data.
+has been amended and/or derived and/or interpolated in some cases. None of the data in this repository should be relied upon for any reason whatsoever. Any use of the data in this reposiory is strictly at the user’s own risk. No one can be held liable in any way for the inaccuracy of this data.
 
 ## Links
 
