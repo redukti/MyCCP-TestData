@@ -1,4 +1,4 @@
-# MyCCP Test Data
+# OpenRedukti Test Data
 
 ## Disclaimer
 
